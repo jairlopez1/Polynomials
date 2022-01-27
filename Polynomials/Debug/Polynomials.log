@@ -1,0 +1,2 @@
+﻿  Source.cpp
+C:\Users\Jair\Desktop\Spring 2020\OOP\Polynomials\Polynomials\Source.cpp(1,10): error C1083:  Cannot open include file: 'polynomial.hpp': No such file or directory
